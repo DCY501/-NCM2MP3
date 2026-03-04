@@ -13,5 +13,5 @@
 #### 📦 下载使用
 
 #####  直接下载EXE
-前往 [Releases](https://github.com/DCY501/WYMusic_converter/releases) 页面下载最新版本：
-- `网易云音乐转换器.exe` - 开箱即用，无需安装Python
+前往 [Releases](https://github.com/DCY501/WYMusic_NCM2MP3/releases/tag/1.0.0) 页面下载最新版本：
+- `WYMusic_NCM2MP3.exe` - 开箱即用，无需安装Python
